@@ -310,8 +310,8 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>LW3Punks</title>
-        <meta name="description" content="LW3Punks-Dapp" />
+        <title>RandomWinnerGame</title>
+        <meta name="description" content="RandomWinnerGame-Dapp" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className={styles.main}>
@@ -334,7 +334,7 @@ export default function Home() {
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by Your Name</footer>
+      <footer className={styles.footer}>Made with &#10084; by Agustin Santos</footer>
     </div>
   );
 }
